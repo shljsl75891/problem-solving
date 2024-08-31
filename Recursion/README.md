@@ -10,3 +10,9 @@ When we are given Choices + Decisions, Think about solving problem using Recursi
 
 - Design the recursive tree using Input Output Method.
 - Fuck the problem. aka. Write the code.
+
+### Three (ordered) ways to approach recursive problems
+
+- HIB Method -> Hypothesis - Induction - Base Condition (When not able to make decisions)
+- Recursive Tree -> I/P - O/P Method (When able to make descisions)
+- Choice Diagram -> Hard Problems
